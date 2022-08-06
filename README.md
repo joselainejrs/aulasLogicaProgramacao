@@ -11,3 +11,16 @@
   por meio de estruturas de decisão e repetição
 
 ```
+
+### Variáveis:
+
+```
+- Operadores aritméticas;
+- Operadores relacionais;
+- Operadores Lógicos;
+- Instruções Imperativos;
+- Instruções condicionais;
+- Lops de Programação;
+- Vetores;
+- Matrizes
+```
