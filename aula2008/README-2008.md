@@ -10,5 +10,21 @@ Explicação:
     
     
     referencia de calculo :https://mundoeducacao.uol.com.br/matematica/potenciacao.htm
+
+    Referencia  de tabiada : https://www.javascriptprogressivo.net/2018/12/Como-Criar-Tabuada-JavaScript.html
+
+    lista de exercicio: 
+    - http://netto.ufpel.edu.br/lib/exe/fetch.php?media=listadeexercicios4-aula6-7-8-solucao.pdf
+
+    - https://docplayer.com.br/21831304-Lista-2-de-exercicios.html
+
+    - https://www.dimap.ufrn.br/~richard/pubs/dim0320/readings/dim0320.pdf
+
+    - https://www.trabalhosfeitos.com/ensaios/Lista-De-Exerc%C3%ADcios-03/79251082.html
+
+
+    - numerador a quadrado
+
+    - frações
          
 ```
